@@ -1,0 +1,11 @@
+C:\Users\student\Documents\c# excersise\bin\Debug\netcoreapp3.1\c# excersise.exe
+C:\Users\student\Documents\c# excersise\bin\Debug\netcoreapp3.1\c# excersise.deps.json
+C:\Users\student\Documents\c# excersise\bin\Debug\netcoreapp3.1\c# excersise.runtimeconfig.json
+C:\Users\student\Documents\c# excersise\bin\Debug\netcoreapp3.1\c# excersise.runtimeconfig.dev.json
+C:\Users\student\Documents\c# excersise\bin\Debug\netcoreapp3.1\c# excersise.dll
+C:\Users\student\Documents\c# excersise\bin\Debug\netcoreapp3.1\c# excersise.pdb
+C:\Users\student\Documents\c# excersise\obj\Debug\netcoreapp3.1\c# excersise.csprojAssemblyReference.cache
+C:\Users\student\Documents\c# excersise\obj\Debug\netcoreapp3.1\c# excersise.AssemblyInfoInputs.cache
+C:\Users\student\Documents\c# excersise\obj\Debug\netcoreapp3.1\c# excersise.AssemblyInfo.cs
+C:\Users\student\Documents\c# excersise\obj\Debug\netcoreapp3.1\c# excersise.dll
+C:\Users\student\Documents\c# excersise\obj\Debug\netcoreapp3.1\c# excersise.pdb
